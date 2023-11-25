@@ -539,6 +539,32 @@ label {
     margin:0;
 }
 
+@media (hover: none) {
+    #tourButtonBook:hover { 
+      color: #ffffff;
+      background-color: #03207a;
+      border: none;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+    
+      #aTour:hover { 
+      color: #fff;
+    }
+    
+      #formButton:hover { 
+      color: #ffffff;
+      background-color: #03207a;
+      border: none;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+    }
+
 @media all and (max-width: 1000px) {
     #tourPrice {
         padding-left: 10px;
