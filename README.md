@@ -1,5 +1,7 @@
 # Mythical Finland
 
+## About
+
 Mythical Finland is a tour operator providing sustainable tours around Finland.
 
 ## Installation
