@@ -4,6 +4,10 @@
 
 Mythical Finland is a tour operator providing sustainable tours around Finland.
 
+## What is it made with?
+
+JavaScript, HTML, CSS, Bootstrap, Formspree.
+
 ## Installation
 
 To view and use the website, click this link: https://swanky-long-brook.glitch.me.
