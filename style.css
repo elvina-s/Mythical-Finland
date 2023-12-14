@@ -284,6 +284,11 @@ body {
     border-radius: 10px;
 }
 
+.middleReview {
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+
 .reviewHeadingAndPicture {
     display: flex;
     flex-direction: row;
@@ -598,11 +603,16 @@ label {
         margin-top: 10px;
     }
   
-      .middle {
-        margin-left: 0px;
+    .middleReview {
         margin-right: 0px;
+        margin-left: 0px;
         margin-top: 20px;
         margin-bottom: 20px;
+  }
+  
+    .middle {
+        margin-left: 20px;
+        margin-right: 20px;
     }
 }
 
@@ -770,6 +780,11 @@ label {
     #advantagesPointDescription, #aboutUsText, #aboutUsText_last {
         text-align: center;
     }
+
+    .middle {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin: 0;
 }
 
 @media all and (max-width: 640px) {
@@ -959,6 +974,10 @@ label {
 @media all and (max-width: 380px) {
     #mainScreenHeading {
         font-size: 35px;
+    }
+    
+    #advantagesHeading {
+        text-align: center;
     }
 }
 
